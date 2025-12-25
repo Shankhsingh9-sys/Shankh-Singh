@@ -1,7 +1,7 @@
 {
-  "name": "SHANKH SINGH-messaging-system",
+  "name": "SHANKH -messaging-system",
   "version": "1.0.0",
-  "description": "SHANKH SINGH Multi-User Messaging System with Auto-Recovery",
+  "description": "SHANKH Multi-User Messaging System with Auto-Recovery",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,7 +13,7 @@
     "facebook",
     "multi-user"
   ],
-  "author": "SHANKH SINGH",
+  "author": "SHANKH",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
